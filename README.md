@@ -2,7 +2,7 @@
 chatGPTにノイズ除去の古典的論文の解説と実装をしてもらいました（すごすぎ）
 
 ## 使用したもの
-・chatGPT (code interprinter)
+・chatGPT (code interprinterを使用)
 
 ・Leonid I. Rudin, Stanley Osher, Emad Fatemi, Nonlinear total variation based noise removal algorithms, 1992
 (応用数学の分野で最も引用されている論文のひとつらしいです...)
