@@ -1,5 +1,5 @@
 # chatgpt-tell-me-about-ROF92
-chatGPTに論文 "Nonlinear total variation based noise removal algorithms, 1992" の解説と実装をしてもらいました（すごすぎ）
+chatGPTにノイズ除去の古典的論文の解説と実装をしてもらいました（すごすぎ）
 
 ## 使用したもの
 ・chatGPT (code interprinter)
