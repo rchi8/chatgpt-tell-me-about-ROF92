@@ -54,3 +54,8 @@ Leonid I. Rudin, Stanley Osher, Emad Fatemi
 この実装は、合成されたノイズのある画像を用いてデモを行っています。実際の画像や異なるノイズレベルに対してもアルゴリズムを適用することができます。
 
 もし、具体的な画像を用いて試してみたい場合や、アルゴリズムの詳細な部分について質問があれば、お知らせください。
+
+（コードから描画された画像↓）
+
+![result](https://github.com/ryohei8/chatgpt-tell-me-about-ROF92/assets/131762035/5e354290-f76c-40d5-9337-43c4afc09e03)
+
