@@ -1,8 +1,9 @@
 # chatgpt-tell-me-about-ROF92
-chatGPT（code interprinter） に論文 "Nonlinear total variation based noise removal algorithms, 1992" の解説と実装をしてもらいました（すごすぎ）
+chatGPTに論文 "Nonlinear total variation based noise removal algorithms, 1992" の解説と実装をしてもらいました（すごすぎ）
 
 ## 使用したもの
 ・chatGPT (code interprinter)
+
 ・Leonid I. Rudin, Stanley Osher, Emad Fatemi, Nonlinear total variation based noise removal algorithms, 1992
 (応用数学の分野で最も引用されている論文のひとつらしいです...)
 
