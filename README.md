@@ -60,3 +60,6 @@ Leonid I. Rudin, Stanley Osher, Emad Fatemi
 
 ![result](https://github.com/ryohei8/chatgpt-tell-me-about-ROF92/assets/131762035/5e354290-f76c-40d5-9337-43c4afc09e03)
 
+## 考察
+
+論文の理解と実装にとって強力な手段になる。一方でアウトプットされたものを自分の環境で動くように調整することが必要。
